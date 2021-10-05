@@ -1,4 +1,5 @@
-# tiktok_fl
+# flutter_pageview_widget_example
+# TikTok Clone for learning purposes 
 
 A new Flutter project.
 
